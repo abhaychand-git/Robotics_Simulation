@@ -58,29 +58,13 @@ During the simulation code analysis:
 - Examined simulation calculations and visualization limitations.
 - Reviewed the performance metrics to assess the proposed optimizations.
 
-## 4. Tools and Technologies
+## 4. Tools:
 
 - Python
 - Robotics and Control Systems
 - Simulation and Performance Analysis
 - Data Visualization
 - Technical Documentation
-
-## 5. Key Learnings
-
-- Understanding sensor feedback and actuator performance in robotic systems.
-- Diagnosing performance bottlenecks.
-- Applying engineering analysis to improve system responsiveness.
-- Python debugging and simulation analysis.
-- Preparing technical design proposals with annotated visual comparisons.
-
-## 6. Deliverables
-
-- Completed Forage job simulation.
-- Certificate of Completion.
-- Technical design proposal.
-- Python simulation code and analysis.
-- Annotated before-and-after visual comparisons.
 
 ---
 
