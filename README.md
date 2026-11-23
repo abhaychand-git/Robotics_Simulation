@@ -1,5 +1,3 @@
-# Johnson_and_-Johnson_MEDTECH_Forage_Simulation
-
 # Johnson & Johnson MedTech – Robotics and Controls Job Simulation
 
 **Platform:** Forage   
